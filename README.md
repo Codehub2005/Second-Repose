@@ -1,5 +1,5 @@
 # Second-Repose
 Starting with the github tutorial..
 <br>
-Author - Prakash Tiwari
+Author - Prakash Tiwari(Codehub)
 
